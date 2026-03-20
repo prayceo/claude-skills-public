@@ -1,6 +1,6 @@
-# the organization Culture System — D.R.E.A.M.
+# Pray.com Culture System — D.R.E.A.M.
 
-The living culture operating system for the organization, extracted from the Culture Deck 2025.
+The living culture operating system for Pray.com, extracted from the Culture Deck 2025.
 
 ---
 
@@ -9,7 +9,7 @@ The living culture operating system for the organization, extracted from the Cul
 - **Who We Are:** A social impact company driven by a mission to grow faith, cultivate community, and leave a legacy of helping others
 - **What We Build:** The digital destination for faith — the #1 technology platform connecting Ministries to Members online
 - **Founded:** 2016 by Steve Gatena, Michael Lynn, Ryan Beck, and Matthew Potter
-- **Origin:** After Steve's business partner died in a plane crash in Medellin, Colombia, Steve searched for a spiritual outlet. His wife Jessica gave him the idea to create the organization as a place for others in need.
+- **Origin:** After Steve's business partner died in a plane crash in Medellin, Colombia, Steve searched for a spiritual outlet. His wife Jessica gave him the idea to create Pray.com as a place for others in need.
 - **Product Pillars:** Pray (Power of Prayer), Connect (Spiritually Curious), Give (Action & Impact)
 - **Business Model:** Ministry SaaS (B2B2C) + Subscription (B2C) + Advertising (B2C) — built for the masses, not the classes
 - **North Star:** "We optimize our Business for Profit & Purpose."
@@ -148,5 +148,5 @@ A cascading alignment tool from abstract to specific:
 - "We are improving our culture as we grow."
 - "We are getting better at living the D.R.E.A.M."
 - "We are leaving a legacy of helping others."
-- At the organization you get a career AND a cause — "we focus on margin and mission"
-- "the organization is a place for people who believe in something bigger than themselves"
+- At Pray.com you get a career AND a cause — "we focus on margin and mission"
+- "Pray.com is a place for people who believe in something bigger than themselves"
