@@ -1,16 +1,17 @@
 # Claude Code Skills Collection
 
-A collection of 30 open-source Claude Code skills for leadership, growth, marketing, product, business strategy, behavioral science, and creative thinking. Built for technologists building tech companies.
+A collection of 33 open-source Claude Code skills for leadership, growth, marketing, product, business strategy, behavioral science, and creative thinking. Built for technologists building tech companies.
 
 ## Skills
 
-### Leadership & Strategy (3)
+### Leadership & Strategy (4)
 
 | Skill | Description |
 |-------|-------------|
 | **servant-leadership** | Servant Leadership Operating System — 18 mental models, D.R.E.A.M. culture framework, Craig Groeschel's 191-episode podcast distillation, and billionaire wealth-building principles |
 | **hormozi-brain** | Alex & Leila Hormozi business operating system — sales, offers, leads, scaling, pricing, hiring, leverage, mindset |
 | **investment-principles** | Value investing analysis from Buffett, Munger, Klarman, Marks, Graham + 20 legendary investors |
+| **ceo-council** | Pressure-test executive decisions with a panel of 9 CEO-level advisors — strategy, ops, growth, mission, product, capital, leverage, culture, and behavioral design |
 
 ### Growth (8)
 
@@ -48,21 +49,23 @@ A collection of 30 open-source Claude Code skills for leadership, growth, market
 | **product-marketing** | Positioning, go-to-market strategy, launch tiering |
 | **product-strategy-leadership** | Strategy Stack, PM Competency Model, team composition |
 
-### Knowledge & Thinking (4)
+### Knowledge & Thinking (5)
 
 | Skill | Description |
 |-------|-------------|
 | **lenny-brain** | Lenny Rachitsky product strategy — 50+ podcast transcripts, growth/retention/activation frameworks |
 | **naval-mind** | Naval Ravikant mental models — wealth creation, happiness, investing, startups, philosophy |
+| **welsh-brain** | Justin Welsh Creator MBA — UVP, 5 Levels of Awareness, Hub & Spoke, Profit Pyramid, FITI pricing, 10 content frameworks |
 | **gatena-cookbook** | 190 behavioral science principles for reviewing and creating designs |
 | **oblique-strategies** | Brian Eno / Peter Schmidt creative unblocking cards |
 
-### Creative & Utility (2)
+### Creative & Utility (3)
 
 | Skill | Description |
 |-------|-------------|
 | **gatena-speech-writer** | Speech writing with rhetorical devices, structural frameworks, and literary techniques |
 | **audio-transcriber** | Transcribe audio/video to text using Whisper (local, free, no API key) |
+| **linkedin-profile-analyzer** | End-to-end LinkedIn profile analysis — pull top 50 posts, download photos, generate viral rewrites with Cookbook + Welsh frameworks, and produce an AB-test memo |
 
 ## How to Install
 
