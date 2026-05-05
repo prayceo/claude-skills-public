@@ -1,5 +1,12 @@
 #!/usr/bin/env python3
-"""Search Steve's organized YPO prompt library."""
+"""Search Steve's organized YPO AI prompt library.
+
+Resolves the library in this priority order:
+  1. references/ypo-ai-prompts (bundled in the skill)
+  2. ../ypo-ai-prompts (skill installed next to the library)
+  3. ../../ypo-ai-prompts (skill installed two levels above the library)
+  4. /Users/stevegatena/Desktop/SuperSteve/ypo-ai-prompts (canonical SuperSteve path)
+"""
 
 from __future__ import annotations
 
@@ -13,14 +20,25 @@ from pathlib import Path
 SKILL_ROOT = Path(__file__).resolve().parents[1]
 
 
-def first_existing_path(candidates: list[Path]) -> Path:
+def is_library_root(candidate: Path) -> bool:
+    """A valid library has output/category-index.csv and output/categories/."""
+    return (
+        candidate.is_dir()
+        and (candidate / "output" / "category-index.csv").is_file()
+        and (candidate / "output" / "categories").is_dir()
+    )
+
+
+def first_valid_library(candidates: list[Path]) -> Path:
     for candidate in candidates:
-        if candidate.exists():
+        if is_library_root(candidate):
             return candidate
-    return candidates[0]
+    # Fall back to the canonical SuperSteve path even if it doesn't exist —
+    # the user will see clear errors downstream.
+    return candidates[-1]
 
 
-LIBRARY_ROOT = first_existing_path(
+LIBRARY_ROOT = first_valid_library(
     [
         SKILL_ROOT / "references" / "ypo-ai-prompts",
         SKILL_ROOT.parent / "ypo-ai-prompts",
@@ -227,7 +245,7 @@ def print_results(items: list[dict], query: str | None, limit: int) -> None:
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Search Steve's YPO prompt library.")
+    parser = argparse.ArgumentParser(description="Search Steve's YPO AI prompt library.")
     parser.add_argument("--query", help="Keyword or phrase to search for.")
     parser.add_argument("--category", help="Limit results to a category.")
     parser.add_argument("--limit", type=int, default=10, help="Maximum results to show.")
@@ -238,7 +256,16 @@ def main() -> int:
         metavar="FILTER",
         help="List categories, optionally filtered by a word.",
     )
+    parser.add_argument(
+        "--library-root",
+        action="store_true",
+        help="Print the resolved library root path and exit.",
+    )
     args = parser.parse_args()
+
+    if args.library_root:
+        print(LIBRARY_ROOT)
+        return 0
 
     if args.list_categories is not None:
         print_categories(args.list_categories or None)
