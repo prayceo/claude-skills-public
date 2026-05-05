@@ -78,7 +78,3 @@ Before finalizing, verify:
 - Variables use clear bracket syntax: `[audience]`, `[product]`, `[campaign]`, `[KPI]`.
 - Output avoids unnecessary jargon unless Steve asks for implementation detail.
 - Strong prompts are listed first; mediocre ones are pruned, not buffered.
-
-## Related Skill
-
-`prompt-ideas-skill` covers the same library with similar mechanics. This skill (`ypo-ai-prompts`) uses the YPO naming Steve prefers when he's asking for the library by name.
