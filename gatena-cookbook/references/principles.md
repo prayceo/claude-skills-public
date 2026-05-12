@@ -6,18 +6,18 @@
 
 ## Table of Contents
 1. [Attention & Perception](#1-attention--perception) (Principles 1-16)
-2. [Cognitive Load & Processing](#2-cognitive-load--processing) (Principles 17-31)
-3. [Decision Architecture](#3-decision-architecture) (Principles 32-48)
-4. [Framing & Presentation](#4-framing--presentation) (Principles 49-63)
-5. [Social Dynamics](#5-social-dynamics) (Principles 64-82)
-6. [Trust & Credibility](#6-trust--credibility) (Principles 83-95)
-7. [Motivation & Engagement](#7-motivation--engagement) (Principles 96-115)
-8. [Emotion & Affect](#8-emotion--affect) (Principles 116-130)
-9. [Memory & Recall](#9-memory--recall) (Principles 131-143)
+2. [Cognitive Load & Processing](#2-cognitive-load--processing) (Principles 17-32)
+3. [Decision Architecture](#3-decision-architecture) (Principles 33-50)
+4. [Framing & Presentation](#4-framing--presentation) (Principles 51-65)
+5. [Social Dynamics](#5-social-dynamics) (Principles 66-83)
+6. [Trust & Credibility](#6-trust--credibility) (Principles 84-96)
+7. [Motivation & Engagement](#7-motivation--engagement) (Principles 97-115)
+8. [Emotion & Affect](#8-emotion--affect) (Principles 116-129)
+9. [Memory & Recall](#9-memory--recall) (Principles 130-143)
 10. [Loss, Risk & Uncertainty](#10-loss-risk--uncertainty) (Principles 144-158)
-11. [Pricing & Value Perception](#11-pricing--value-perception) (Principles 159-178)
-12. [Identity & Self-Concept](#12-identity--self-concept) (Principles 179-189)
-13. [Cross-Cutting Principles](#13-cross-cutting-principles) (Principles 190+)
+11. [Pricing & Value Perception](#11-pricing--value-perception) (Principles 159-171)
+12. [Identity & Self-Concept](#12-identity--self-concept) (Principles 172-182)
+13. [Cross-Cutting Principles](#13-cross-cutting-principles) (Principles 183-190)
 
 ---
 
