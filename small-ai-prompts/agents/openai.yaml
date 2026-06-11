@@ -1,0 +1,4 @@
+interface:
+  display_name: "YPO AI Prompts"
+  short_description: "Mine 6,500 YPO AI prompts across 1,060 categories"
+  default_prompt: "Use $ypo-ai-prompts to find and adapt prompts for my business goal."
