@@ -4,7 +4,7 @@ This folder organizes the YPO AI prompt export into readable category files.
 
 ## Source
 
-- Original file: `/Users/stevegatena/Downloads/ypo_checkpoint_6500.json`
+- Original file: `ypo_checkpoint_6500.json`
 - Total prompts used: 6,500
 - Category files created: 1,060
 - Created: 2026-05-05 09:37

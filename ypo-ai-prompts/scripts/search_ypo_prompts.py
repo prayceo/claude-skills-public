@@ -1,11 +1,10 @@
 #!/usr/bin/env python3
-"""Search Steve's organized YPO AI prompt library.
+"""Search the organized YPO AI prompt library.
 
 Resolves the library in this priority order:
   1. references/ypo-ai-prompts (bundled in the skill)
   2. ../ypo-ai-prompts (skill installed next to the library)
   3. ../../ypo-ai-prompts (skill installed two levels above the library)
-  4. /Users/stevegatena/Desktop/SuperSteve/ypo-ai-prompts (canonical SuperSteve path)
 """
 
 from __future__ import annotations
@@ -33,7 +32,7 @@ def first_valid_library(candidates: list[Path]) -> Path:
     for candidate in candidates:
         if is_library_root(candidate):
             return candidate
-    # Fall back to the canonical SuperSteve path even if it doesn't exist —
+    # Fall back to the last candidate even if it doesn't exist —
     # the user will see clear errors downstream.
     return candidates[-1]
 
@@ -43,7 +42,6 @@ LIBRARY_ROOT = first_valid_library(
         SKILL_ROOT / "references" / "ypo-ai-prompts",
         SKILL_ROOT.parent / "ypo-ai-prompts",
         SKILL_ROOT.parent.parent / "ypo-ai-prompts",
-        Path("/Users/stevegatena/Desktop/SuperSteve/ypo-ai-prompts"),
     ]
 )
 INDEX_CSV = LIBRARY_ROOT / "output" / "category-index.csv"
@@ -52,7 +50,6 @@ CATEGORIES_DIR = LIBRARY_ROOT / "output" / "categories"
 JSON_SOURCES = [
     LIBRARY_ROOT / "output" / "ypo_checkpoint_6500.json",
     LIBRARY_ROOT / "output" / "all-prompts.json",
-    Path("/Users/stevegatena/Downloads/ypo_checkpoint_6500.json"),
 ]
 
 
@@ -245,7 +242,7 @@ def print_results(items: list[dict], query: str | None, limit: int) -> None:
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Search Steve's YPO AI prompt library.")
+    parser = argparse.ArgumentParser(description="Search the YPO AI prompt library.")
     parser.add_argument("--query", help="Keyword or phrase to search for.")
     parser.add_argument("--category", help="Limit results to a category.")
     parser.add_argument("--limit", type=int, default=10, help="Maximum results to show.")
