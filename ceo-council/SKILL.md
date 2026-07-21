@@ -84,6 +84,7 @@ When optional members are invoked, the council size increases and the majority t
 5. **Vote** — All 9 members must vote (see VOTING.md)
 6. **Synthesis** — Identify agreements, conditions, and the sharpest dissent
 7. **Decision** — Majority (5+) wins; conditions must be addressed before execution
+8. **Board-Ready Presentation** *(when the decision will be presented to the board, investors, or press)* — Name which look from `looks-taxonomy.md` the decision or its supporting data should become (e.g. "this is an Executive Growth Narrative, not a Financial Operating Table"). Marco Narrative owns this call when he's in the council; otherwise Warren Margin or Magnus Longview flags it before the decision leaves the room.
 
 ## Pre-Council Diagnostic
 
