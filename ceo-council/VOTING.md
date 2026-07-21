@@ -63,17 +63,17 @@ A "No" answer doesn't auto-fail the vote — but it must be surfaced explicitly 
 Miriam Covenant holds a **Mission Veto** — the only unilateral veto in the council.
 
 She may invoke it when a decision would:
-- Compromise Pray.com's covenant with its faith audience (e.g., predatory monetization of vulnerable users)
+- Compromise the company's covenant with its faith audience (e.g., predatory monetization of vulnerable users)
 - Damage trust with the spiritual community in a way that is difficult or impossible to repair
 - Directly contradict the stated mission ("inspiring the world to pray")
 
-The Mission Veto **overrides a majority vote**. It is not used lightly — Miriam must provide explicit justification citing mission, user trust, or long-term brand damage. It can be appealed by the CEO (Steve) with a written override rationale.
+The Mission Veto **overrides a majority vote**. It is not used lightly — Miriam must provide explicit justification citing mission, user trust, or long-term brand damage. It can be appealed by the CEO with a written override rationale.
 
 ## Escalation
 
 If the vote is tied (only possible with even-number councils including optional members):
 1. The member with the lowest domain score re-examines their vote with the conditions on the table
-2. If still tied, the decision escalates to Steve with a full council brief — no forced consensus
+2. If still tied, the decision escalates to the CEO with a full council brief — no forced consensus
 
 ## Output Format
 

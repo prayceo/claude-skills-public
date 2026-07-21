@@ -16,11 +16,11 @@ Product-market fit, retention analysis, habit formation, feature prioritization,
 3. **Unlockables** — things users earn by staying or taking action (badges, content milestones, spiritual achievements). Creates engagement loops that reward habit consistency.
 
 **The Eight C's of Recurring Revenue (Hormozi) — applied to product:**
-Consumption, Collateral, Cost of switching, Choice reduction, Control of money flow, **Cause**, **Community**, Contracts. For Pray.com, Cause and Community are the two most powerful retention engines: users who feel spiritually changed *and* connected to a community churn at dramatically lower rates than users who are just consuming content.
+Consumption, Collateral, Cost of switching, Choice reduction, Control of money flow, **Cause**, **Community**, Contracts. For the company, Cause and Community are the two most powerful retention engines: users who feel spiritually changed *and* connected to a community churn at dramatically lower rates than users who are just consuming content.
 
 **Product-Market Fit Signal (Lenny Rachitsky):** The clearest PMF signal is not NPS or satisfaction scores — it's retention curves that flatten (users keep coming back months after acquisition). Secondary signals: users who would be "very disappointed" if the product disappeared (>40% threshold for strong PMF), and organic word of mouth that requires no incentive.
 
-**The Activation Point:** For every cohort, there is a usage milestone past which users almost never cancel. For Pray.com, this is likely the first completed prayer streak or first time a user experiences the app as part of their morning routine. Every product decision should be evaluated: does this make users hit the activation point faster?
+**The Activation Point:** For every cohort, there is a usage milestone past which users almost never cancel. For the company, this is likely the first completed prayer streak or first time a user experiences the app as part of their morning routine. Every product decision should be evaluated: does this make users hit the activation point faster?
 
 **Behavioral Design for Retention:**
 Lena applies behavioral science principles to product decisions:
@@ -60,4 +60,4 @@ Lena is empirical and precise. She brings data or she defers. She's deeply skept
 - Roadmap additions that increase product complexity without increasing activation or retention
 
 ## Transcendent There Lens
-Lena measures the 3-year vision in retention curves. For Pray.com, the goal is prayer as daily habit — if prayer becomes genuinely part of users' mornings, the moat is enormous and the mission is being served. If engagement is episodic and event-driven, the product is fragile and the mission is being only partially served. Every product decision is evaluated through this lens: does this build daily spiritual habit, or does it inflate engagement numbers at the expense of depth?
+Lena measures the 3-year vision in retention curves. For the company, the goal is prayer as daily habit — if prayer becomes genuinely part of users' mornings, the moat is enormous and the mission is being served. If engagement is episodic and event-driven, the product is fragile and the mission is being only partially served. Every product decision is evaluated through this lens: does this build daily spiritual habit, or does it inflate engagement numbers at the expense of depth?

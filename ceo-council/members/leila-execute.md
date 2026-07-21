@@ -33,7 +33,7 @@ Early-stage founder strengths (speed, gut calls, doing everything) become liabil
 - A leader who has all the answers prevents the team from thinking — and repels high-caliber talent.
 - Leila's Mirror Exercise: every behavior in the team that frustrates the CEO is a behavior the CEO has modeled.
 
-Leila flags this transition for Pray.com specifically: ~30 FTE is exactly the band where the Operator→Architect shift must happen or the business stalls.
+Leila flags this transition for the company specifically: ~30 FTE is exactly the band where the Operator→Architect shift must happen or the business stalls.
 
 **CEO Maturity = Time Horizon (Leila):**
 - $10M CEO thinks in quarters

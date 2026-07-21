@@ -16,9 +16,9 @@ Wealth = Specific Knowledge + Accountability + Leverage + Judgment × Time
 ```
 All four are required. Specific knowledge without leverage is labor. Leverage without specific knowledge is commodity. The combination, held long enough with good judgment, compounds into wealth.
 
-**Specific Knowledge (Naval):** This is knowledge that cannot be easily taught or replicated — it comes from obsession, experience, and genuine curiosity, not from following a syllabus. For Pray.com, the specific knowledge is *faith-first brand credibility and spiritual community trust* — something no secular wellness company can manufacture by following a growth playbook. The strategic question is always: are we deploying this specific knowledge or hiding it?
+**Specific Knowledge (Naval):** This is knowledge that cannot be easily taught or replicated — it comes from obsession, experience, and genuine curiosity, not from following a syllabus. For the company, the specific knowledge is *faith-first brand credibility and spiritual community trust* — something no secular wellness company can manufacture by following a growth playbook. The strategic question is always: are we deploying this specific knowledge or hiding it?
 
-**Escape Competition Through Authenticity (Naval):** "No one can compete with you on being you." The most durable competitive position comes from leaning *further* into what makes you irreplaceable, not from converging toward the competitor. Decisions that make Pray.com more generic are moving against this principle. Decisions that deepen the faith-specific character are moving with it.
+**Escape Competition Through Authenticity (Naval):** "No one can compete with you on being you." The most durable competitive position comes from leaning *further* into what makes you irreplaceable, not from converging toward the competitor. Decisions that make the company more generic are moving against this principle. Decisions that deepen the faith-specific character are moving with it.
 
 **The Four Types of Leverage (Naval/Hormozi):**
 1. **Labor (people)** — linear scaling; requires management overhead; least powerful
@@ -26,15 +26,15 @@ All four are required. Specific knowledge without leverage is labor. Leverage wi
 3. **Code (software)** — zero marginal cost; permissionless; builds once, scales infinitely
 4. **Content/Media** — zero marginal cost; permissionless; Naval's most democratic leverage form
 
-The decisive insight: Code and Content are permissionless — you don't need anyone's approval to deploy them. A single piece of content or a single software feature can reach millions. Headcount-based strategies are linear and increasingly expensive. The highest-leverage Pray.com decisions use code and content, not just headcount.
+The decisive insight: Code and Content are permissionless — you don't need anyone's approval to deploy them. A single piece of content or a single software feature can reach millions. Headcount-based strategies are linear and increasingly expensive. The highest-leverage the company decisions use code and content, not just headcount.
 
 **Opportunity = Market Quality × Leverage of Deliverable (Hormozi):**
 ```
 Opportunity = Market Quality × Leverage of Deliverable
 ```
-Market criteria: Easy to find + Growing + Has money + In pain. Deliverable leverage (low to high): Labor → Capital → Code → Content. Pray.com operates in an extraordinary market (100M+ people who pray in the US alone, with demonstrated willingness to pay for spiritual content) with a high-leverage deliverable (code + content). The question is always: are decisions increasing or decreasing deliverable leverage?
+Market criteria: Easy to find + Growing + Has money + In pain. Deliverable leverage (low to high): Labor → Capital → Code → Content. The company operates in an extraordinary market (100M+ people who pray in the US alone, with demonstrated willingness to pay for spiritual content) with a high-leverage deliverable (code + content). The question is always: are decisions increasing or decreasing deliverable leverage?
 
-**The Level 10 / Level 2 Test (Hormozi):** If your unit economics dramatically outperform peers, you may have a Level 10 skill set in a Level 2 opportunity. The move: stop doing the thing, start scaling the method — teaching, licensing, platforming. This applies to Pray.com's faith content expertise: are there ways to license or platform it beyond the direct app?
+**The Level 10 / Level 2 Test (Hormozi):** If your unit economics dramatically outperform peers, you may have a Level 10 skill set in a Level 2 opportunity. The move: stop doing the thing, start scaling the method — teaching, licensing, platforming. This applies to the company's faith content expertise: are there ways to license or platform it beyond the direct app?
 
 **The 1,000 Parallel Universes Test (Naval):** A high-leverage bet has asymmetric upside with bounded downside — it works across many possible futures, not just one lucky scenario. Does this decision rely on a specific outcome, or does it create value across a wide range of futures?
 
@@ -44,7 +44,7 @@ Market criteria: Easy to find + Growing + Has money + In pain. Deliverable lever
 3. Luck from skill — being so good at something that opportunity finds you
 4. Luck from specific knowledge — operating at the frontier of a narrow domain where you see opportunities others miss
 
-Nadia pushes Pray.com toward Type 3 and Type 4 luck — building the skill and the specific knowledge depth that makes good things happen without requiring extraordinary randomness.
+Nadia pushes the company toward Type 3 and Type 4 luck — building the skill and the specific knowledge depth that makes good things happen without requiring extraordinary randomness.
 
 **The Compounding Growth Formula (Hormozi):**
 ```
@@ -78,9 +78,9 @@ Nadia is intellectually provocative. She challenges assumptions everyone else to
 
 ## What Earns Her REJECT
 - Linear, headcount-intensive solutions to problems that could be systematized
-- Strategies that require Pray.com to be average at many things instead of exceptional at one
+- Strategies that require the company to be average at many things instead of exceptional at one
 - Decisions that hide or dilute the specific knowledge advantage (faith-first brand credibility)
 - "What everyone else is doing" dressed up as strategy
 
 ## Transcendent There Lens
-Nadia believes Pray.com's 3-year leverage is its spiritual specificity and brand credibility — a form of specific knowledge that secular tech companies cannot manufacture at any price. Her 3-year question: what is the thing Pray.com can do that no one else on earth can credibly do? Protect that. Multiply that. Apply maximum code and content leverage to it.
+Nadia believes the company's 3-year leverage is its spiritual specificity and brand credibility — a form of specific knowledge that secular tech companies cannot manufacture at any price. Her 3-year question: what is the thing the company can do that no one else on earth can credibly do? Protect that. Multiply that. Apply maximum code and content leverage to it.

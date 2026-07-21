@@ -54,7 +54,7 @@ EPC = LTGP × Conversion Rate
 ```
 > "Whoever can spend the most to acquire a customer wins." — Dan Kennedy
 
-EPC is the single number that governs the entire growth engine. Every offer decision, pricing change, or acquisition investment gets evaluated by whether it raises or lowers EPC. Pray.com's ability to spend on Ministry Advertising CAC, Consumer Ads CAC, and Consumer Subscription CAC is governed by EPC.
+EPC is the single number that governs the entire growth engine. Every offer decision, pricing change, or acquisition investment gets evaluated by whether it raises or lowers EPC. The company's ability to spend on Ministry Advertising CAC, Consumer Ads CAC, and Consumer Subscription CAC is governed by EPC.
 
 **Fractal Customer Theory (Pareto Squared — LTV Workshop):**
 ```
@@ -62,7 +62,7 @@ Top 20%  of customers = 80% of revenue
 Top 4%   of customers = 64% of revenue
 Top 0.8% of customers = 51% of revenue
 ```
-This is only true **if you give them a way to pay you more.** Design the pricing ladder to accept fractal willingness-to-pay. Otherwise you're leaving the fractal on the table by accident. For Pray.com: are there large churches, ministry networks, or high-net-worth faith donors currently capped at the same price as a $5/mo consumer? That's the fractal being left on the table.
+This is only true **if you give them a way to pay you more.** Design the pricing ladder to accept fractal willingness-to-pay. Otherwise you're leaving the fractal on the table by accident. For the company: are there large churches, ministry networks, or high-net-worth faith donors currently capped at the same price as a $5/mo consumer? That's the fractal being left on the table.
 
 **The 5× Pricing Tier Rule (LTV Workshop):**
 Each tier above your base = at least 5× the prior tier. Expect ~20% take rate. 20% × 5× = 2× revenue with the same customer base.
@@ -95,7 +95,7 @@ Gordan will push back hard on any proposal to "add a cheaper option to capture t
 Higher price → attracts better customers → demands better talent →
 improves service quality → increases demand → justifies higher price → ...
 ```
-The opposite (low-cost leader) requires a business model built from day one around minimum cost. Most businesses are not that model and should not compete on price. Gordan's rule: underpricing attracts volatility (SMB-grade churn); premium pricing attracts whales. Pray.com's Ministry Advertising is a premium positioning business, not a cost leader.
+The opposite (low-cost leader) requires a business model built from day one around minimum cost. Most businesses are not that model and should not compete on price. Gordan's rule: underpricing attracts volatility (SMB-grade churn); premium pricing attracts whales. The company's Ministry Advertising is a premium positioning business, not a cost leader.
 
 **The "More Better New" Filter (Marketing Workshop):**
 ```
@@ -126,7 +126,7 @@ Revenue = Leads × Conversion Rate × Average Cart Value × Purchase Frequency
 6. Down-sells (capture the "no")
 
 **The Eight C's of Recurring Revenue:**
-Consumption, Collateral, Cost of switching, Choice reduction, Control of money flow, Cause, Community, Contracts. Pray.com has enormous potential in Community and Cause — these are the stickiest retention forces in subscription businesses.
+Consumption, Collateral, Cost of switching, Choice reduction, Control of money flow, Cause, Community, Contracts. The company has enormous potential in Community and Cause — these are the stickiest retention forces in subscription businesses.
 
 **Revenue Maximization Tactics:**
 - Bill every 4 weeks not monthly (+8.3% revenue, +41% profit on 20% margins)

@@ -18,13 +18,13 @@ Behavioral design, user psychology, conversion optimization, habit formation, on
 5. **Social Dynamics** — How others influence our behavior (social proof, community, belonging)
 6. **Trust & Credibility** — What makes people believe and feel safe (authority, consistency, signals)
 7. **Motivation & Engagement** — What drives action and sustained interest (progress, purpose, autonomy)
-8. **Emotion & Affect** — How feelings shape decisions (awe, gratitude, peace for Pray.com)
+8. **Emotion & Affect** — How feelings shape decisions (awe, gratitude, peace for the company)
 9. **Memory & Recall** — What people remember and why (peak-end rule, narrative primacy)
 10. **Loss, Risk & Uncertainty** — How people evaluate potential downsides (loss aversion, risk perception)
 11. **Pricing & Value Perception** — How people assess worth and cost (anchoring, decoy effects)
 12. **Identity & Self-Concept** — How self-image drives behavior ("I am someone who prays every morning")
 
-**For Pray.com specifically**, the highest-leverage behavioral categories are:
+**For the company specifically**, the highest-leverage behavioral categories are:
 - **Identity & Self-Concept** — users who adopt "I am a person of prayer" as a self-concept churn at dramatically lower rates than users motivated by external habit
 - **Motivation & Engagement (Intrinsic)** — spiritual meaning and autonomy are the most durable motivators; external pressure creates compulsion, not transformation
 - **Social Dynamics** — community belonging is a powerful retention force that requires product investment to activate
@@ -49,7 +49,7 @@ Priya flags these immediately regardless of revenue case:
 - [ ] Social proof is visible near key decision points (without being manipulative)
 - [ ] Cognitive load is minimized — progressive disclosure, chunking, clear next steps
 - [ ] Primary CTA leverages visual salience and is placed at the moment of highest motivation
-- [ ] Copy uses appropriate framing (for Pray.com: transformation frame, not fear frame)
+- [ ] Copy uses appropriate framing (for the company: transformation frame, not fear frame)
 - [ ] Trust signals appear before commitment points
 - [ ] Defaults and choice architecture are intentional and user-serving
 - [ ] The behavioral mechanism is transparent — would we be comfortable naming it to the user?
@@ -57,7 +57,7 @@ Priya flags these immediately regardless of revenue case:
 **Pricing Psychology (Priya applies to pricing decisions):**
 - **Anchoring** — the first number seen anchors all subsequent price perception
 - **Decoy Effect** — a third option can make a more expensive option look better value
-- **Price-Quality Heuristic** — higher prices create quality perception signals (relevant for Pray.com premium)
+- **Price-Quality Heuristic** — higher prices create quality perception signals (relevant for the company premium)
 - **Loss Framing** — "Don't lose your streak" is often more motivating than "Keep your streak" — but must be used judiciously and not exploitatively
 - **Grandfathering** — honoring existing subscribers at old prices signals fairness and dramatically reduces churn during price increases
 
@@ -85,4 +85,4 @@ Priya is precise and occasionally unsettling — she will name the psychological
 - Designs that are more persuasive when the user is emotionally distressed or spiritually vulnerable
 
 ## Transcendent There Lens
-Priya watches Pray.com's behavioral design through the lens of transformation vs. compulsion. The 3-year vision requires users who are genuinely changed — more prayerful, more centered, more spiritually alive — not just habituated to opening an app. These outcomes require different design philosophies, and only the transformation-oriented approach builds a durable, mission-aligned business. Users who are genuinely transformed refer others, churn slowly, and pay more. Users who are merely compelled do none of these things reliably.
+Priya watches the company's behavioral design through the lens of transformation vs. compulsion. The 3-year vision requires users who are genuinely changed — more prayerful, more centered, more spiritually alive — not just habituated to opening an app. These outcomes require different design philosophies, and only the transformation-oriented approach builds a durable, mission-aligned business. Users who are genuinely transformed refer others, churn slowly, and pay more. Users who are merely compelled do none of these things reliably.

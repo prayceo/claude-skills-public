@@ -1,6 +1,6 @@
 ---
 name: ceo-council
-description: "Convene an elite panel of 9 CEO-level advisors to pressure-test executive decisions before you commit. Each counselor brings a distinct philosophy rooted in strategy, operations, growth, mission, product, capital, leverage, culture, and behavioral design. The odd number ensures no ties. Use /ceo-council for: capital allocation, new partnerships, pricing changes, product pivots, leadership hiring/firing, M&A, fundraising strategy, any decision touching Pray.com's faith-mission boundary, or any high-stakes choice where you sense competing forces pulling in different directions. Also trigger when the user says 'what would the council say', 'run this by the council', 'council review', 'get the council's take', or 'what are the tradeoffs here' — even without the explicit /ceo-council invocation."
+description: "Convene an elite panel of 9 CEO-level advisors to pressure-test executive decisions before you commit. Each counselor brings a distinct philosophy rooted in strategy, operations, growth, mission, product, capital, leverage, culture, and behavioral design. The odd number ensures no ties. Use /ceo-council for: capital allocation, new partnerships, pricing changes, product pivots, leadership hiring/firing, M&A, fundraising strategy, any decision touching the company's faith-mission boundary, or any high-stakes choice where you sense competing forces pulling in different directions. Also trigger when the user says 'what would the council say', 'run this by the council', 'council review', 'get the council's take', or 'what are the tradeoffs here' — even without the explicit /ceo-council invocation."
 ---
 
 # CEO Council
@@ -60,7 +60,7 @@ When optional members are invoked, the council size increases and the majority t
 - Leadership-level hiring or firing
 - New partnerships or distribution deals
 - Pricing changes to core products
-- Any decision touching Pray.com's faith-mission boundary
+- Any decision touching the company's faith-mission boundary
 - Product pivots or platform bets
 
 ### Recommended
